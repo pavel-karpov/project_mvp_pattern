@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">project_mvp_pattern</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last_name</string>
+    <string name="position">Position</string>
+    <string name="enter_firstName">Enter first name</string>
+    <string name="enter_lastName">Enter last name</string>
+    <string name="enter_position">Enter position</string>
+    <string name="btn_add">Add a note</string>
+    <string name="btn_show">Show a note</string>
+</resources>
